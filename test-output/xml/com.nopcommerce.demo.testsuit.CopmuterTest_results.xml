@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.563">
+  <properties />
+  
+  
+            <testcase name="verifynaviagatetodesktop" time="12.563" classname="com.nopcommerce.demo.testsuit.CopmuterTest" />
+      
+</testsuite>
